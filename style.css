@@ -19,14 +19,13 @@ cursor: default;
 font-size: 45px;
 transition: 1s;   
  display: inline;
- padding-right: 18%;
+ padding-left: 24%;
 }
 .top{
-    text-align: center;
+    text-align: left;
     display: inline-block;
-    width: 90%;
+    width: 100%;
     margin-top: 1%;
-    margin-left: 30%;
 }
 #header h1:hover{
     color: aliceblue;
@@ -41,7 +40,7 @@ transition: 1s;
     color: rgb(18, 39, 58);
     font-weight: bold;
     border: none;
-    position: relative;
+    margin-left: 2%;
 }
 #header input:active{
     background-color: rgb(222, 255, 234);
